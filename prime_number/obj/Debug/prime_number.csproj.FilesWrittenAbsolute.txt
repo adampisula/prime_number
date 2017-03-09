@@ -1,0 +1,8 @@
+/home/adampisula/Projects/2016/prime_number/prime_number/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/adampisula/Projects/2016/prime_number/prime_number/bin/Debug/prime_number.exe.config
+/home/adampisula/Projects/2016/prime_number/prime_number/bin/Debug/prime_number.exe.mdb
+/home/adampisula/Projects/2016/prime_number/prime_number/bin/Debug/prime_number.pdb
+/home/adampisula/Projects/2016/prime_number/prime_number/bin/Debug/prime_number.exe
+/home/adampisula/Projects/2016/prime_number/prime_number/obj/Debug/prime_number.exe
+/home/adampisula/Projects/2016/prime_number/prime_number/obj/Debug/prime_number.exe.mdb
+/home/adampisula/Projects/2016/prime_number/prime_number/obj/Debug/prime_number.pdb
